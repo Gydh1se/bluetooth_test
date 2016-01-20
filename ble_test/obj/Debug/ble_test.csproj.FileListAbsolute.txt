@@ -1,0 +1,14 @@
+D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\ble_test\bin\Debug\ble_test.dll
+D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\ble_test\bin\Debug\ble_test.pdb
+D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\ble_test\bin\Debug\Xamarin.Forms.Core.dll
+D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\ble_test\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\ble_test\bin\Debug\Xamarin.Forms.Core.xml
+D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\ble_test\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\ble_test\obj\Debug\ble_test.csprojResolveAssemblyReference.cache
+D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\ble_test\obj\Debug\ble_test.dll
+D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\ble_test\obj\Debug\ble_test.pdb
+D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\ble_test\bin\Debug\Cirrious.CrossCore.dll
+D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\ble_test\bin\Debug\Cirrious.MvvmCross.Localization.dll
+D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\ble_test\bin\Debug\MvvmCross.Plugins.BLE.dll
+D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\ble_test\bin\Debug\Newtonsoft.Json.dll
+D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\ble_test\bin\Debug\Newtonsoft.Json.xml

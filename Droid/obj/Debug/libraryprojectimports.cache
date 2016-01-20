@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\Droid\obj\Debug\__library_projects__\Cirrious.CrossCore.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\Droid\obj\Debug\__library_projects__\Cirrious.MvvmCross.Binding.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\Droid\obj\Debug\__library_projects__\MvvmCross.Plugins.BLE.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\Droid\obj\Debug\__library_projects__\Xamarin.Insights\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\Droid\obj\Debug\__library_projects__\Cirrious.CrossCore.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\Droid\obj\Debug\__library_projects__\Cirrious.MvvmCross.Binding.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\Droid\obj\Debug\__library_projects__\MvvmCross.Plugins.BLE.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\Droid\obj\Debug\__library_projects__\Xamarin.Insights\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\Droid\obj\Debug\__library_projects__\Cirrious.CrossCore.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\Droid\obj\Debug\__library_projects__\Cirrious.MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\Droid\obj\Debug\__library_projects__\MvvmCross.Plugins.BLE.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\emiline_projects\Emiline_app\ble\ble_test\ble_test\Droid\obj\Debug\__library_projects__\Xamarin.Insights.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
